@@ -2,27 +2,27 @@
   "clusters": [
     {
       "id": 0,
-      "size": 56,
-      "representative": "长电科技（Mavis 持仓，7/24 封测，-0.50%）",
-      "cohesion": 0.05
-    },
-    {
-      "id": 1,
-      "size": 54,
+      "size": 50,
       "representative": "决策 #005 7/24 全市场活跃股监控池（150+ 只，覆盖 20+ 板块）",
       "cohesion": 0.06
     },
     {
+      "id": 1,
+      "size": 44,
+      "representative": "决策 #20260724_006 13:00 开盘立即全卖盛新锂能 50 股",
+      "cohesion": 0.07
+    },
+    {
       "id": 2,
-      "size": 50,
-      "representative": "盛新锂能 (002240)",
+      "size": 39,
+      "representative": "错误 #014 V2.2最致命-涨停板14:00根本不能成交",
       "cohesion": 0.07
     },
     {
       "id": 3,
       "size": 39,
-      "representative": "错误 #014 V2.2最致命-涨停板14:00根本不能成交",
-      "cohesion": 0.07
+      "representative": "决策 #20260723_001 9:25 集合竞价结束 方案 A→D 关键修订",
+      "cohesion": 0.06
     },
     {
       "id": 4,
@@ -32,45 +32,45 @@
     },
     {
       "id": 5,
-      "size": 26,
-      "representative": "决策 #20260724_013 15:30 盘后维护 数据修正决策",
-      "cohesion": 0.11
+      "size": 31,
+      "representative": "Mavis 30万激进交易系统 V2.2（最终版 2026-07-22）",
+      "cohesion": 0.07
     },
     {
       "id": 6,
-      "size": 23,
-      "representative": "决策 #20260724_012 13:03 减仓中国海油 500 股",
-      "cohesion": 0.09
+      "size": 29,
+      "representative": "中国西电 (601179)",
+      "cohesion": 0.11
     },
     {
       "id": 7,
-      "size": 22,
-      "representative": "Mavis 30万激进交易系统 V2.2（最终版 2026-07-22）",
-      "cohesion": 0.09
+      "size": 25,
+      "representative": "涨停板指标",
+      "cohesion": 0.08
     },
     {
       "id": 8,
-      "size": 19,
-      "representative": "中国西电 (601179)",
-      "cohesion": 0.14
+      "size": 23,
+      "representative": "盛新锂能 (002240)",
+      "cohesion": 0.11
     },
     {
       "id": 9,
-      "size": 17,
-      "representative": "涨停板指标",
-      "cohesion": 0.12
+      "size": 21,
+      "representative": "决策 #20260724_012 13:03 减仓中国海油 500 股",
+      "cohesion": 0.1
     },
     {
       "id": 10,
-      "size": 15,
-      "representative": "2026-07-20 盘前全面分析报告（防御+成长组合 50%）",
-      "cohesion": 0.15
+      "size": 17,
+      "representative": "长电科技（Mavis 持仓，7/24 封测，-0.50%）",
+      "cohesion": 0.16
     },
     {
       "id": 11,
-      "size": 13,
-      "representative": "委比",
-      "cohesion": 0.18
+      "size": 15,
+      "representative": "2026-07-20 盘前全面分析报告（防御+成长组合 50%）",
+      "cohesion": 0.15
     },
     {
       "id": 12,
@@ -1130,14 +1130,14 @@
       "degree": 20
     },
     {
-      "id": "decision_20260724_013",
-      "label": "决策 #20260724_013 15:30 盘后维护 数据修正决策",
-      "degree": 19
-    },
-    {
       "id": "decision_20260724_002",
       "label": "决策 #20260724_002 T+1 第二轮多线减仓（10:00 紧急）",
       "degree": 19
+    },
+    {
+      "id": "decision_20260724_013",
+      "label": "决策 #20260724_013 15:30 盘后维护 数据修正决策",
+      "degree": 18
     },
     {
       "id": "person_Mavis",
