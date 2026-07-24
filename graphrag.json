@@ -1,0 +1,1154 @@
+{
+  "clusters": [
+    {
+      "id": 0,
+      "size": 51,
+      "representative": "决策 #005 7/24 全市场活跃股监控池（150+ 只，覆盖 20+ 板块）",
+      "cohesion": 0.06
+    },
+    {
+      "id": 1,
+      "size": 46,
+      "representative": "长电科技（Mavis 持仓，7/24 封测，-0.50%）",
+      "cohesion": 0.06
+    },
+    {
+      "id": 2,
+      "size": 40,
+      "representative": "决策 #20260722_001 建仓模板（待记录）",
+      "cohesion": 0.06
+    },
+    {
+      "id": 3,
+      "size": 39,
+      "representative": "决策 #20260724_013 15:30 盘后维护 数据修正决策",
+      "cohesion": 0.07
+    },
+    {
+      "id": 4,
+      "size": 37,
+      "representative": "决策 #20260724_001 9:27 T+1 多线减仓（开盘紧急）",
+      "cohesion": 0.07
+    },
+    {
+      "id": 5,
+      "size": 37,
+      "representative": "盛新锂能 (002240)",
+      "cohesion": 0.08
+    },
+    {
+      "id": 6,
+      "size": 28,
+      "representative": "错误 #014 V2.2最致命-涨停板14:00根本不能成交",
+      "cohesion": 0.11
+    },
+    {
+      "id": 7,
+      "size": 24,
+      "representative": "决策 #20260724_006 13:00 开盘立即全卖盛新锂能 50 股",
+      "cohesion": 0.12
+    },
+    {
+      "id": 8,
+      "size": 17,
+      "representative": "决策 #008（7/23 收盘复盘，18:35第五次修正版）",
+      "cohesion": 0.15
+    },
+    {
+      "id": 9,
+      "size": 15,
+      "representative": "委比",
+      "cohesion": 0.15
+    },
+    {
+      "id": 10,
+      "size": 15,
+      "representative": "2026-07-20 盘前全面分析报告（防御+成长组合 50%）",
+      "cohesion": 0.15
+    },
+    {
+      "id": 11,
+      "size": 15,
+      "representative": "错误 #058 9 项必填未全记录",
+      "cohesion": 0.14
+    },
+    {
+      "id": 12,
+      "size": 14,
+      "representative": "Mavis 30万激进交易系统 V2.2（最终版 2026-07-22）",
+      "cohesion": 0.14
+    },
+    {
+      "id": 13,
+      "size": 10,
+      "representative": "错误 #015 7/23 涨停 129 没预测（黑天鹅只 3 条太少）",
+      "cohesion": 0.2
+    },
+    {
+      "id": 14,
+      "size": 5,
+      "representative": "V2.2 全市场扫描 6 步流程",
+      "cohesion": 0.4
+    },
+    {
+      "id": 15,
+      "size": 4,
+      "representative": "案例：7/22 通富涨 9.96% 主力出货 12350 手（涨停板不追）",
+      "cohesion": 0.5
+    },
+    {
+      "id": 16,
+      "size": 3,
+      "representative": "每条决策必须记录来源时点和依据",
+      "cohesion": 0.67
+    },
+    {
+      "id": 17,
+      "size": 2,
+      "representative": "案例 1：济民健康 603222（最经典诱多陷阱）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 18,
+      "size": 2,
+      "representative": "电信",
+      "cohesion": 1.0
+    },
+    {
+      "id": 19,
+      "size": 2,
+      "representative": "长鑫科技上市",
+      "cohesion": 1.0
+    },
+    {
+      "id": 20,
+      "size": 2,
+      "representative": "2026-07-24 9:27 创业板 -1.68% 触发警戒",
+      "cohesion": 1.0
+    },
+    {
+      "id": 21,
+      "size": 2,
+      "representative": "错误 #003 通富微电63 V反成功下结论过早",
+      "cohesion": 1.0
+    },
+    {
+      "id": 22,
+      "size": 1,
+      "representative": "集中持仓3至5只龙头",
+      "cohesion": 1.0
+    },
+    {
+      "id": 23,
+      "size": 1,
+      "representative": "亏损盈利及焦虑心理预警规则",
+      "cohesion": 1.0
+    },
+    {
+      "id": 24,
+      "size": 1,
+      "representative": "科创 20 日触榜规则（V2.2）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 25,
+      "size": 1,
+      "representative": "不与天争大盘（V2.2）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 26,
+      "size": 1,
+      "representative": "科创50指数",
+      "cohesion": 1.0
+    },
+    {
+      "id": 27,
+      "size": 1,
+      "representative": "上证指数",
+      "cohesion": 1.0
+    },
+    {
+      "id": 28,
+      "size": 1,
+      "representative": "规则：早盘 9:30-9:45 不重仓（V2.2 T+1 制度）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 29,
+      "size": 1,
+      "representative": "规则：14:00 尾盘建仓，分批 30%+30%+40%",
+      "cohesion": 1.0
+    },
+    {
+      "id": 30,
+      "size": 1,
+      "representative": "规则：单只风险≤1%、单日总风险≤3%、总回撤>20%强制清仓",
+      "cohesion": 1.0
+    },
+    {
+      "id": 31,
+      "size": 1,
+      "representative": "规则：价格+资金+情绪三者共振=真信号，三者皆否=不操作",
+      "cohesion": 1.0
+    },
+    {
+      "id": 32,
+      "size": 1,
+      "representative": "规则：13 维度评分权重（政策+行业40% / 资金+宏观30% / 情绪+技术15% / 国际+估值+周期15%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 33,
+      "size": 1,
+      "representative": "规则：情绪周期 5 阶段仓位（冰点0% / 退潮30% / 启动50% / 主升80% / 高潮80%持有不追）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 34,
+      "size": 1,
+      "representative": "规则：实战应用 6 步法（9:15集合竞价→9:30开盘→9:45判V反→11:30午盘→14:00建仓→15:00复盘）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 35,
+      "size": 1,
+      "representative": "规则：大盘 -1% 不自动清仓（7 信号综合判断）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 36,
+      "size": 1,
+      "representative": "DDE 资金流",
+      "cohesion": 1.0
+    },
+    {
+      "id": 37,
+      "size": 1,
+      "representative": "13 维度评分",
+      "cohesion": 1.0
+    },
+    {
+      "id": 38,
+      "size": 1,
+      "representative": "主力净流入是滞后指标（必须配合价格）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 39,
+      "size": 1,
+      "representative": "破位立即停止抄底（破位 = 趋势反转）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 40,
+      "size": 1,
+      "representative": "金融 IT（宇信科技 +14.15% / 长亮科技 +11.35%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 41,
+      "size": 1,
+      "representative": "新能源/电力设备（扬电科技 +16.09%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 42,
+      "size": 1,
+      "representative": "跌停板家数（7/23 跌停 2）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 43,
+      "size": 1,
+      "representative": "中国石化",
+      "cohesion": 1.0
+    },
+    {
+      "id": 44,
+      "size": 1,
+      "representative": "隆基绿能 (601012)",
+      "cohesion": 1.0
+    },
+    {
+      "id": 45,
+      "size": 1,
+      "representative": "PE(TTM) 市盈率",
+      "cohesion": 1.0
+    },
+    {
+      "id": 46,
+      "size": 1,
+      "representative": "股息率",
+      "cohesion": 1.0
+    },
+    {
+      "id": 47,
+      "size": 1,
+      "representative": "资金回流 (2026-07-21)",
+      "cohesion": 1.0
+    },
+    {
+      "id": 48,
+      "size": 1,
+      "representative": "业绩发酵 (2026-07-22 ~ 07-23)",
+      "cohesion": 1.0
+    },
+    {
+      "id": 49,
+      "size": 1,
+      "representative": "输变电设备板块",
+      "cohesion": 1.0
+    },
+    {
+      "id": 50,
+      "size": 1,
+      "representative": "锂板块",
+      "cohesion": 1.0
+    },
+    {
+      "id": 51,
+      "size": 1,
+      "representative": "线缆部件板块",
+      "cohesion": 1.0
+    },
+    {
+      "id": 52,
+      "size": 1,
+      "representative": "地面兵装/兵装重组板块",
+      "cohesion": 1.0
+    },
+    {
+      "id": 53,
+      "size": 1,
+      "representative": "可燃冰板块（7/23 +6.41% 龙头 + 油价）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 54,
+      "size": 1,
+      "representative": "WTI原油价格",
+      "cohesion": 1.0
+    },
+    {
+      "id": 55,
+      "size": 1,
+      "representative": "涨停家数128",
+      "cohesion": 1.0
+    },
+    {
+      "id": 56,
+      "size": 1,
+      "representative": "涨停封单量",
+      "cohesion": 1.0
+    },
+    {
+      "id": 57,
+      "size": 1,
+      "representative": "晶晨股份（科创板，❌ 不能买）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 58,
+      "size": 1,
+      "representative": "中无人机",
+      "cohesion": 1.0
+    },
+    {
+      "id": 59,
+      "size": 1,
+      "representative": "数据快照存档命名规范 YYYYMMDD_HHMM_标的_类型.csv",
+      "cohesion": 1.0
+    },
+    {
+      "id": 60,
+      "size": 1,
+      "representative": "涨停股 中国西电 (剥掉涨停股盈亏)",
+      "cohesion": 1.0
+    },
+    {
+      "id": 61,
+      "size": 1,
+      "representative": "2026-07-24 7:30 CME 加息概率 35% + 美股 -2%",
+      "cohesion": 1.0
+    },
+    {
+      "id": 62,
+      "size": 1,
+      "representative": "9:20集合竞价（涨停股必须此时买）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 63,
+      "size": 1,
+      "representative": "洛阳钼业 603993",
+      "cohesion": 1.0
+    },
+    {
+      "id": 64,
+      "size": 1,
+      "representative": "风华高科 000636",
+      "cohesion": 1.0
+    },
+    {
+      "id": 65,
+      "size": 1,
+      "representative": "宁德时代（创业板动力电池，❌ 不能买）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 66,
+      "size": 1,
+      "representative": "三环集团 300408",
+      "cohesion": 1.0
+    },
+    {
+      "id": 67,
+      "size": 1,
+      "representative": "阳光电源 300274",
+      "cohesion": 1.0
+    },
+    {
+      "id": 68,
+      "size": 1,
+      "representative": "立讯精密 002475",
+      "cohesion": 1.0
+    },
+    {
+      "id": 69,
+      "size": 1,
+      "representative": "中国铝业 601600",
+      "cohesion": 1.0
+    },
+    {
+      "id": 70,
+      "size": 1,
+      "representative": "特变电工（电网）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 71,
+      "size": 1,
+      "representative": "铜陵有色 000630",
+      "cohesion": 1.0
+    },
+    {
+      "id": 72,
+      "size": 1,
+      "representative": "中信建投",
+      "cohesion": 1.0
+    },
+    {
+      "id": 73,
+      "size": 1,
+      "representative": "中金",
+      "cohesion": 1.0
+    },
+    {
+      "id": 74,
+      "size": 1,
+      "representative": "石油石化",
+      "cohesion": 1.0
+    },
+    {
+      "id": 75,
+      "size": 1,
+      "representative": "封测",
+      "cohesion": 1.0
+    },
+    {
+      "id": 76,
+      "size": 1,
+      "representative": "AI 服务器",
+      "cohesion": 1.0
+    },
+    {
+      "id": 77,
+      "size": 1,
+      "representative": "电力",
+      "cohesion": 1.0
+    },
+    {
+      "id": 78,
+      "size": 1,
+      "representative": "油服工程",
+      "cohesion": 1.0
+    },
+    {
+      "id": 79,
+      "size": 1,
+      "representative": "油气开采Ⅱ",
+      "cohesion": 1.0
+    },
+    {
+      "id": 80,
+      "size": 1,
+      "representative": "冶钢原料",
+      "cohesion": 1.0
+    },
+    {
+      "id": 81,
+      "size": 1,
+      "representative": "化学原料",
+      "cohesion": 1.0
+    },
+    {
+      "id": 82,
+      "size": 1,
+      "representative": "特钢Ⅱ",
+      "cohesion": 1.0
+    },
+    {
+      "id": 83,
+      "size": 1,
+      "representative": "电池",
+      "cohesion": 1.0
+    },
+    {
+      "id": 84,
+      "size": 1,
+      "representative": "贵金属",
+      "cohesion": 1.0
+    },
+    {
+      "id": 85,
+      "size": 1,
+      "representative": "长鑫概念",
+      "cohesion": 1.0
+    },
+    {
+      "id": 86,
+      "size": 1,
+      "representative": "银行板块（7/23 +1.53% 红利 + 避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 87,
+      "size": 1,
+      "representative": "医药/消费板块（防御性，弱势）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 88,
+      "size": 1,
+      "representative": "招商南油（高开 3%+ 兑现风险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 89,
+      "size": 1,
+      "representative": "中国石油",
+      "cohesion": 1.0
+    },
+    {
+      "id": 90,
+      "size": 1,
+      "representative": "中海油服",
+      "cohesion": 1.0
+    },
+    {
+      "id": 91,
+      "size": 1,
+      "representative": "中油工程",
+      "cohesion": 1.0
+    },
+    {
+      "id": 92,
+      "size": 1,
+      "representative": "招商轮船（高开 2-3%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 93,
+      "size": 1,
+      "representative": "中远海控（航运）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 94,
+      "size": 1,
+      "representative": "中远海特（高开 1-2%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 95,
+      "size": 1,
+      "representative": "恒力石化（石化）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 96,
+      "size": 1,
+      "representative": "桐昆股份（石化）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 97,
+      "size": 1,
+      "representative": "荣盛石化（石化）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 98,
+      "size": 1,
+      "representative": "国电南瑞（智能电网，7/23 +7.5%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 99,
+      "size": 1,
+      "representative": "平高电气（输变电，7/23 +6.8%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 100,
+      "size": 1,
+      "representative": "许继电气（智能电网，7/23 +6.2%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 101,
+      "size": 1,
+      "representative": "思源电气（电网）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 102,
+      "size": 1,
+      "representative": "国网信通（电网）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 103,
+      "size": 1,
+      "representative": "永杉锂业（锂矿龙头，7/23 +7.30%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 104,
+      "size": 1,
+      "representative": "天齐锂业（锂矿，7/23 +5.8%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 105,
+      "size": 1,
+      "representative": "赣锋锂业（锂矿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 106,
+      "size": 1,
+      "representative": "国城矿业（锂矿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 107,
+      "size": 1,
+      "representative": "融捷股份（锂矿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 108,
+      "size": 1,
+      "representative": "川能动力（锂矿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 109,
+      "size": 1,
+      "representative": "中矿资源（锂矿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 110,
+      "size": 1,
+      "representative": "长城军工（兵装龙头，7/23 +6.97%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 111,
+      "size": 1,
+      "representative": "内蒙一机（兵装，7/23 +5.5%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 112,
+      "size": 1,
+      "representative": "中国船舶（船舶，7/23 +5.2%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 113,
+      "size": 1,
+      "representative": "中航沈飞（战机，7/23 +4.8%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 114,
+      "size": 1,
+      "representative": "中航西飞（军工）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 115,
+      "size": 1,
+      "representative": "航发动力（军工）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 116,
+      "size": 1,
+      "representative": "中航高科（军工）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 117,
+      "size": 1,
+      "representative": "鲁阳节能（可燃冰龙头，7/23 +6.41%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 118,
+      "size": 1,
+      "representative": "海油工程",
+      "cohesion": 1.0
+    },
+    {
+      "id": 119,
+      "size": 1,
+      "representative": "石化机械",
+      "cohesion": 1.0
+    },
+    {
+      "id": 120,
+      "size": 1,
+      "representative": "准油股份",
+      "cohesion": 1.0
+    },
+    {
+      "id": 121,
+      "size": 1,
+      "representative": "海通证券（持长鑫股份）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 122,
+      "size": 1,
+      "representative": "国泰君安（持长鑫股份）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 123,
+      "size": 1,
+      "representative": "申万宏源（持长鑫股份）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 124,
+      "size": 1,
+      "representative": "东方证券（持长鑫股份）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 125,
+      "size": 1,
+      "representative": "山东黄金",
+      "cohesion": 1.0
+    },
+    {
+      "id": 126,
+      "size": 1,
+      "representative": "中金黄金",
+      "cohesion": 1.0
+    },
+    {
+      "id": 127,
+      "size": 1,
+      "representative": "赤峰黄金（黄金）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 128,
+      "size": 1,
+      "representative": "山金国际（黄金）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 129,
+      "size": 1,
+      "representative": "招金黄金（黄金）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 130,
+      "size": 1,
+      "representative": "湖南黄金（黄金）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 131,
+      "size": 1,
+      "representative": "西部黄金（黄金）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 132,
+      "size": 1,
+      "representative": "中科曙光（服务器，7/23 -1.5%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 133,
+      "size": 1,
+      "representative": "鹏鼎控股（PCB，100 亿深圳投资）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 134,
+      "size": 1,
+      "representative": "兴业银行（7/23 +1.5%，增持+分红）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 135,
+      "size": 1,
+      "representative": "中信银行",
+      "cohesion": 1.0
+    },
+    {
+      "id": 136,
+      "size": 1,
+      "representative": "建设银行",
+      "cohesion": 1.0
+    },
+    {
+      "id": 137,
+      "size": 1,
+      "representative": "农业银行",
+      "cohesion": 1.0
+    },
+    {
+      "id": 138,
+      "size": 1,
+      "representative": "浦发银行（银行）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 139,
+      "size": 1,
+      "representative": "民生银行（银行）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 140,
+      "size": 1,
+      "representative": "中国建筑（房建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 141,
+      "size": 1,
+      "representative": "中国中铁（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 142,
+      "size": 1,
+      "representative": "中国铁建（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 143,
+      "size": 1,
+      "representative": "中国交建（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 144,
+      "size": 1,
+      "representative": "中国电建（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 145,
+      "size": 1,
+      "representative": "中国能建（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 146,
+      "size": 1,
+      "representative": "中国中冶（基建）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 147,
+      "size": 1,
+      "representative": "中国神华（煤炭，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 148,
+      "size": 1,
+      "representative": "陕西煤业（煤炭，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 149,
+      "size": 1,
+      "representative": "中煤能源（煤炭，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 150,
+      "size": 1,
+      "representative": "中国核电（电力，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 151,
+      "size": 1,
+      "representative": "华能水电（电力，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 152,
+      "size": 1,
+      "representative": "国投电力（电力，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 153,
+      "size": 1,
+      "representative": "云南白药（中药）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 154,
+      "size": 1,
+      "representative": "片仔癀（中药）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 155,
+      "size": 1,
+      "representative": "恒瑞医药（创新药）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 156,
+      "size": 1,
+      "representative": "药明康德（CRO）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 157,
+      "size": 1,
+      "representative": "凯莱英（CRO）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 158,
+      "size": 1,
+      "representative": "兴欣新材（5000 万-1 亿回购）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 159,
+      "size": 1,
+      "representative": "新华保险（100 亿永续债）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 160,
+      "size": 1,
+      "representative": "中信特钢（业绩预告）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 161,
+      "size": 1,
+      "representative": "新天然气（天然气，7/23 +5.2%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 162,
+      "size": 1,
+      "representative": "北方华创（设备，7/23 -1.8%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 163,
+      "size": 1,
+      "representative": "兖矿能源（煤炭，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 164,
+      "size": 1,
+      "representative": "比亚迪（新能源车+电池）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 165,
+      "size": 1,
+      "representative": "长城汽车（整车）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 166,
+      "size": 1,
+      "representative": "吉利汽车（整车）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 167,
+      "size": 1,
+      "representative": "广汽集团（整车）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 168,
+      "size": 1,
+      "representative": "中国太保（保险，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 169,
+      "size": 1,
+      "representative": "牧原股份（养猪）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 170,
+      "size": 1,
+      "representative": "伊利股份（乳业）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 171,
+      "size": 1,
+      "representative": "五粮液（白酒，避险）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 172,
+      "size": 1,
+      "representative": "万科 A（地产，弱势）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 173,
+      "size": 1,
+      "representative": "保利发展（地产，弱势）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 174,
+      "size": 1,
+      "representative": "林洋能源（储能）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 175,
+      "size": 1,
+      "representative": "华能国际（25 亿中期票据）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 176,
+      "size": 1,
+      "representative": "士兰微（IDM，7/23 -1.2%）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 177,
+      "size": 1,
+      "representative": "中油工程",
+      "cohesion": 1.0
+    },
+    {
+      "id": 178,
+      "size": 1,
+      "representative": "中芯国际（科创板，❌ 不能买）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 179,
+      "size": 1,
+      "representative": "景嘉微（创业板 GPU，❌ 不能买）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 180,
+      "size": 1,
+      "representative": "龙虎榜（7/23 通富微电 -4.24 亿 / 紫光股份 -26.92 亿）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 181,
+      "size": 1,
+      "representative": "错误 #019 T+1 反弹回 -1% 后回落",
+      "cohesion": 1.0
+    },
+    {
+      "id": 182,
+      "size": 1,
+      "representative": "集合竞价指标",
+      "cohesion": 1.0
+    }
+  ],
+  "top_nodes_by_degree": [
+    {
+      "id": "decision_20260724_005",
+      "label": "决策 #005 7/24 全市场活跃股监控池（150+ 只，覆盖 20+ 板块）",
+      "degree": 38
+    },
+    {
+      "id": "decision_20260724_001",
+      "label": "决策 #20260724_001 9:27 T+1 多线减仓（开盘紧急）",
+      "degree": 26
+    },
+    {
+      "id": "stock_002240",
+      "label": "盛新锂能 (002240)",
+      "degree": 24
+    },
+    {
+      "id": "decision_20260724_013",
+      "label": "决策 #20260724_013 15:30 盘后维护 数据修正决策",
+      "degree": 24
+    },
+    {
+      "id": "decision_20260724_002",
+      "label": "决策 #20260724_002 T+1 第二轮多线减仓（10:00 紧急）",
+      "degree": 22
+    },
+    {
+      "id": "decision_20260724_004",
+      "label": "决策 #20260724_004 10:30 全卖盛新锂能 + 暂缓 V7 加仓（10:36 执行）",
+      "degree": 22
+    },
+    {
+      "id": "stock_600584",
+      "label": "长电科技（Mavis 持仓，7/24 封测，-0.50%）",
+      "degree": 21
+    },
+    {
+      "id": "error_014",
+      "label": "错误 #014 V2.2最致命-涨停板14:00根本不能成交",
+      "degree": 20
+    },
+    {
+      "id": "stock_601179",
+      "label": "中国西电 (601179)",
+      "degree": 20
+    },
+    {
+      "id": "person_Mavis",
+      "label": "Mavis（维护人）",
+      "degree": 17
+    }
+  ]
+}
