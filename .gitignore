@@ -1,0 +1,4 @@
+.graphify-out/
+graph.json.bak
+*.pyc
+__pycache__/
